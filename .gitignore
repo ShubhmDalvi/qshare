@@ -1,0 +1,20 @@
+# Binaries
+qshare.exe
+*.exe
+
+# Build artifacts
+*.out
+*.syso
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
