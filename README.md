@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="120" height="120" alt="qshare" src="https://github.com/user-attachments/assets/e32abaad-e6a8-4a23-8054-7d58958ca851" />
+</p>
+
 # QShare 🚀
 
 QShare is a fast, secure, and minimal **command-line file transfer tool** for Windows (built with Go).  
@@ -91,3 +95,9 @@ This adds a firewall rule for **all profiles (Private, Public, Domain)**.
 
 ## 📜 License
 MIT License © 2025 YOUR NAME
+
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=ShubhmDalvi&repo=qshare&countColor=%237B1E7A" />
+   </a>
+</p>
